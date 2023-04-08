@@ -1,4 +1,6 @@
-class Solution {
+/*Unique Character strategy*/
+ 
+class Solution {    
 public:
     string originalDigits(string s) {
         unordered_map<char, int> umap;
