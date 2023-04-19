@@ -1,3 +1,7 @@
+## 42. Trapping Rain Water
+```diff
+- Hard
+```
 ### Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
 ![rainwatertrap](https://user-images.githubusercontent.com/88236255/223982728-d80c9efb-e6be-479f-9542-ccd31095da35.png)
