@@ -1,4 +1,7 @@
-### Minimum Additions to Make Valid String - 2645
+## 2645 Minimum Additions to Make Valid String
+```diff
++ Easy
+```
 
 Given a string word to which you can insert letters "a", "b" or "c" anywhere and any number of times, return the minimum number of letters that must be inserted so that word becomes valid.
 
